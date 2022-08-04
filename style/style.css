@@ -15,6 +15,7 @@
   max-width: 100%;
   /*al agregarlo quito el espaciado que genera la clase row*/ }
   .gallery .img_work {
+    max-width: 80%;
     margin: 10px;
     transition-duration: 1s; }
     .gallery .img_work:hover {
